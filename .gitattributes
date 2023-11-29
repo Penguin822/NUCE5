@@ -3,3 +3,4 @@ NCUE專題/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/lld filte
 C:/學校/專題/github/NUCE5/NCUE專題/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-11_5_0.bundle filter=lfs diff=lfs merge=lfs -text
 NCUE專題/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-11_5_0.bundle filter=lfs diff=lfs merge=lfs -text
 NCUE專題/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostlin/lld filter=lfs diff=lfs merge=lfs -text
+NCUE專題/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
